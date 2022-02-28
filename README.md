@@ -1,3 +1,4 @@
 # DemonCalculator
 A tool for DemonMarket
-![screenshot](https://github.com/Tining123/DemonCalculator/blob/main/DemonCalculator/img/pic.png)
+
+![screenshot](https://raw.githubusercontent.com/Tining123/DemonCalculator/main/DemonCalculator/img/pic.png)
